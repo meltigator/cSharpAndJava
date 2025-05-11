@@ -1,4 +1,7 @@
 #!/bin/bash
+#
+# written by Andrea Giani
+#
 
 echo "=== Demonstration of the power of MSYS2 with C# and Java ==="
 echo "Creating a C# program to flash characters and a Java program to generate data..."
